@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\obj\Debug\ExpenseTracker.Form1.resources
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\obj\Debug\ExpenseTracker.Resource1.resources
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
+C:\Users\Acer\Desktop\C#\Labs\Lab3\ExpenseTracker\obj\Debug\ExpenseTracker.AddNewExpense.resources
