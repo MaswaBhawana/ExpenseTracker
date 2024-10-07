@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|c:\\users\\acer\\desktop\\c#\\labs\\expensetracker\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|c:\\users\\acer\\desktop\\c#\\labs\\expensetracker\\create account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|solutionrelative:create account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|c:\\users\\acer\\desktop\\c#\\labs\\expensetracker\\create account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|solutionrelative:create account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|solutionrelative:resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\add new expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|solutionrelative:add new expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\add new expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|solutionrelative:add new expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47217A2E-4D31-4063-9668-83B60B046181}|ExpenseTracker.csproj|solutionrelative:Expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:18:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create Account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Create Account.cs",
+              "RelativeDocumentMoniker": "Create Account.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Create Account.cs [Design]",
+              "RelativeToolTip": "Create Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:27:33.983Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create Account.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Create Account.cs",
+              "RelativeDocumentMoniker": "Create Account.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Create Account.cs",
+              "RelativeToolTip": "Create Account.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:16:19.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:24:56.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Resource1.resx",
+              "RelativeDocumentMoniker": "Resource1.resx",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Resource1.resx",
+              "RelativeToolTip": "Resource1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-07T02:50:08.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add New Expense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Add New Expense.cs",
+              "RelativeDocumentMoniker": "Add New Expense.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Add New Expense.cs [Design]",
+              "RelativeToolTip": "Add New Expense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:26:16.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add New Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Add New Expense.cs",
+              "RelativeDocumentMoniker": "Add New Expense.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Add New Expense.cs",
+              "RelativeToolTip": "Add New Expense.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAnwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:26:18.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:25:59.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Expense.cs",
+              "RelativeDocumentMoniker": "Expense.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C#\\Labs\\ExpenseTracker\\Expense.cs",
+              "RelativeToolTip": "Expense.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:25:43.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

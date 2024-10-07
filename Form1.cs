@@ -69,7 +69,7 @@ namespace ExpenseTracker
        
         Expense FindExpenseByDescription(string description)
         {
-            // Go through all burgers in the menu
+            // Go through all expense in the menu
             foreach (Expense expense in expenseTable)
             {
                 // Found expense with that description
@@ -119,6 +119,11 @@ namespace ExpenseTracker
             AddNewExpense addNewExpense = new AddNewExpense(expenseTable);
             addNewExpense.ShowDialog();
             UpdateTableGUI();
+        }
+
+        private void dataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
