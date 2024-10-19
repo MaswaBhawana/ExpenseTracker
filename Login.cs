@@ -39,7 +39,7 @@ namespace ExpenseTracker
             this.Hide();
 
             createAccount.Show();
-            this.Close();
+            //this.Close();
         }
     }   
 }
