@@ -96,3 +96,4 @@ C:\Users\Acer\Desktop\C#\Labs\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.Cor
 C:\Users\Acer\Desktop\C#\Labs\ExpenseTracker\obj\Debug\ExpenseT.567C5DF3.Up2Date
 C:\Users\Acer\Desktop\C#\Labs\ExpenseTracker\obj\Debug\ExpenseTracker.exe
 C:\Users\Acer\Desktop\C#\Labs\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
+C:\Users\Acer\Desktop\C#\Labs\ExpenseTracker\bin\Debug\ExpenseTracker.pdb

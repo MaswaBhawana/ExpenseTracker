@@ -68,20 +68,16 @@ namespace ExpenseTracker
                         Login login = new Login();
                         login.Show();
                         this.Close();
-
                     }
                     else
                     {
                         MessageBox.Show("Failed to create account. Please try again.");
                     }
-
                 }catch (Exception ex)
                 {
                     MessageBox.Show($"An error occured: {ex.Message}\n\n{ex.StackTrace}");
                 }
             }
-
-            
         }
     }
 }

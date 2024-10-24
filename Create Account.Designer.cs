@@ -82,6 +82,7 @@
             this.FullNameTextBox.Name = "FullNameTextBox";
             this.FullNameTextBox.Size = new System.Drawing.Size(533, 26);
             this.FullNameTextBox.TabIndex = 1;
+            this.FullNameTextBox.Text = "Full name";
             // 
             // EmailTextBox
             // 
@@ -90,6 +91,7 @@
             this.EmailTextBox.Name = "EmailTextBox";
             this.EmailTextBox.Size = new System.Drawing.Size(533, 26);
             this.EmailTextBox.TabIndex = 2;
+            this.EmailTextBox.Text = "Email";
             // 
             // PasswordTextBox
             // 
@@ -98,6 +100,7 @@
             this.PasswordTextBox.Name = "PasswordTextBox";
             this.PasswordTextBox.Size = new System.Drawing.Size(533, 26);
             this.PasswordTextBox.TabIndex = 3;
+            this.PasswordTextBox.Text = "Password";
             // 
             // panel1
             // 
